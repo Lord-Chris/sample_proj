@@ -4,6 +4,8 @@ void main() {
   runApp(const MyApp());
 }
 
+var login = 'This is where we log in';
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
